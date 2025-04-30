@@ -1,16 +1,38 @@
-# Hi there, I'm Esteban Higuita 👋 (Profile in progress)
+# Hi there, I'm Esteban Higuita 👋
 
 I'm a passionate Android Developer with over 7 years of experience building robust, scalable, and user-focused mobile applications. I love teaching and learning, two of the most powerful tools for growth. I'm always reading about best practices and tech trends to stay up to date. 
 
 
 I've worked on a variety of Android projects with different architectures, technologies, and methodologies. Let's talk about tech, innovation, and growth opportunities!
 
-
 |Email|Linkedin|Instagram|
 |----|----|----|
 |📧 estebanhiguitad@gmail.com|🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)|📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)|
 
-## Skills
+## 🛠️ Tech Skills
+
+| Technology              | Description                                         |
+|-------------------------|-----------------------------------------------------|
+| Android SDK             | Native Android application development              |
+| Kotlin                  | Modern language for Android                         |
+| Java                    | Classic language used in Android                    |
+| Coroutines              | Asynchronous programming in Kotlin                  |
+| Room                    | ORM for local data persistence in Android           |
+| GraphQL                 | Query language for APIs                             |
+| REST API                | Client-server communication                         |
+| Design Patterns         | Design patterns to make development faster and easier to understand|
+| Architectural Patterns  | Helps organize app structure for better readability and maintainability|
+| Compose                 | Modern declarative UI toolkit for Android           |
+| Compose Testing         | Testing framework for Jetpack Compose               |
+
+
+### Other Tools & Technologies
+| Technology              | Description                                         |
+|-------------------------|-----------------------------------------------------|
+| Flutter                 | Cross-platform UI development framework             |
+| Jenkins                 | Continuous integration and DevOps tool              |
+| Fastlane                | Automation tool for app delivery                    |
+| Sonar                   | Code quality and static analysis tool               |
 
 
 
