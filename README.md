@@ -1,52 +1,63 @@
-## Hi there, I'm Esteban Higuita 👋 (Profile in progress)
+# Hi there, I'm Esteban Higuita 👋 (Profile in progress)
 
 I'm a passionate Android Developer with over 7 years of experience building robust, scalable, and user-focused mobile applications. I love teaching and learning, two of the most powerful tools for growth. I'm always reading about best practices and tech trends to stay up to date. 
 
 
 I've worked on a variety of Android projects with different architectures, technologies, and methodologies. Let's talk about tech, innovation, and growth opportunities!
 
-📧 estebanhiguitad@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)
-📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)
 
-### Highlighted projects
+|Email|Linkedin|Instagram|
+|----|----|----|
+|📧 estebanhiguitad@gmail.com|🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)|📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)|
 
-#### At SoftServe 
+## Highlighted projects
 
-- 📱 **Expedia Mobile App.**
+### SoftServe 
 
-    **Role:** Android Developer Senior  
-    **Methodology:** DevOps
+SoftServe is a global software development company with presence in over 16 countries and a wide range of international clients.
 
-    - Created UI Integration test to several features like:
-  
-      - Developed stable UI tests using Jetpack Compose Testing, Page Object Pattern, and Test Doubles. (Video demo coming soon!)
-      - Sharing feature using UI Automator and Compose Testing Page Object Pattern and Test Doubles to make it stable. (Video demo coming soon!)
-
-    - Working with Android Deeplinks to get access specific points of the app.
-    - Adding sharing feature to relevant screens like the product detail to Hotels, Packages and flights
-    - Supporting multibranding development to Vrbo, Hotels.com, Orbitz, MrJet, Wotif, Travelocity, Ebookers, Homeaway and sub-brands, LastMinute and CheapTickets.
-
-    Tech Stack
-      - Android SDK
-      - Kotlin and Java support
-      - Coroutines and RX Java Support
-      - Room to database access.
-      - Compose, Fully compose and migration process
-      - Compose Testing framework
-      - GraphQL
-
-  Play Store Links:
-    - Agregar los 10 links de apps
- 
-  Screenshots.
-    - Agregar Screenshots de la app. 
+Currently, I’m part of the Android team working with Expedia Group, a global travel platform whose mission is to build outstanding products and connect travelers with partners to bring good into the world. I contribute to enhancing user experience in the Expedia mobile app and its suite of multibrand apps.
 
 [SoftServe Site](https://www.softserveinc.com/en-us)
 
-#### At Globant. 
+#### Expedia Mobile App.
 
-- 📱 Carnival Cruise Lines Pre Cruise and On Boarding App
+*Role:* Android Developer Senior  
+*Methodology:* DevOps
+
+*Responsibilities:*
+
+ - Developed stable UI tests using Jetpack Compose Testing, Page Object Pattern, and Test Doubles. (Video demo coming soon!)
+ - Working with Android Deeplinks to get access specific points of the app.
+ - Adding sharing feature to relevant screens like the product detail to Hotels, Packages and flights
+ - Supporting multibranding development to Vrbo, Hotels.com, Orbitz, MrJet, Wotif, Travelocity, Ebookers, Homeaway and sub-brands, LastMinute and CheapTickets.
+
+*Tech Stack*
+   - Android SDK
+   - Kotlin and Java support
+   - Coroutines and RX Java Support
+   - Room to database access.
+   - Compose, Fully compose and migration process
+   - Compose Testing framework
+   - GraphQL
+
+*Play Store Links to Main Expedia Brands:*
+
+| Brand           | Google Play Store Link                                                                 |
+|-----------------|--------------------------------------------------------------------------------------------|
+| <img src="https://github.com/user-attachments/assets/e4c3c411-9eae-4652-b489-eb181be67688" width="5%"> Expedia         | [Expedia: Hotels, Flights, Cars](https://play.google.com/store/apps/details?id=com.expedia.bookings)  |
+| <img src="https://github.com/user-attachments/assets/ee488746-dee8-418a-a0db-ade7e632ce12" width="5%"> Hotels.com      | [Hotels.com: Travel Booking](https://play.google.com/store/apps/details?id=com.hcom.android)|
+| <img src="https://github.com/user-attachments/assets/96f3f4e0-ca79-4b18-b9cc-b48b2b016eb0" width="5%"> Vrbo            | [Vrbo Vacation Rentals](https://play.google.com/store/apps/details?id=com.vrbo.android) |
+
+
+
+### Globant. 
+
+Software house around the world with presence on many countries with many different clients. 
+
+I worked to Carnival Corporation which is a company as they define to theyselves: "comprises distinct cruise lines, which serve travelers from all walks of life". Main Job was all about the Mobile App they draw up to guide people through Cruise experience.
+
+#### Carnival Cruise Lines Pre Cruise and On Boarding App
       **Role:** Android Developer & Mobile Lead
       **Methodology:** Scrum
   
@@ -116,11 +127,11 @@ I've worked on a variety of Android projects with different architectures, techn
 
 [Ceiba Site](https://www.ceiba.com.co/en/home/)
 
-### This is me
+## This is me
 
 I like to play video games, mostly Soccer and Racing cars. I'm very passionate with my responsibilities, basically I like to make them very well done and with high quality, even if it inolves moped my house or define a good architecture to the project I'm working on. 
 
-#### Soft Skills:
+### Soft Skills:
 
 - Assertive communication
 - Creative solutions
@@ -128,6 +139,6 @@ I like to play video games, mostly Soccer and Racing cars. I'm very passionate w
 - Speaker
 - Couching
 
-#### Languages
+### Languages
 - 🇨🇴 Spanish (Native Speaker)
 - 🇬🇧 English (B+ upper level Speaker)
