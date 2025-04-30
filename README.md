@@ -10,9 +10,13 @@ I've worked on a variety of Android projects with different architectures, techn
 |----|----|----|
 |📧 estebanhiguitad@gmail.com|🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)|📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)|
 
+## Skills
+
+
+
 ## Highlighted projects
 
-### SoftServe 
+### At SoftServe 
 
 SoftServe is a global software development company with presence in over 16 countries and a wide range of international clients.
 
@@ -22,123 +26,121 @@ Currently, I’m part of the Android team working with Expedia Group, a global t
 
 #### Expedia Mobile App.
 
-*Role:* Android Developer Senior  
-*Methodology:* DevOps
+_Role:_ Android Developer Senior  
+_Methodology:_ DevOps
 
-*Responsibilities:*
+_Responsibilities:_
 
- - Developed stable UI tests using Jetpack Compose Testing, Page Object Pattern, and Test Doubles. (Video demo coming soon!)
- - Working with Android Deeplinks to get access specific points of the app.
+ - Developed stable UI tests using Jetpack Compose Testing, Page Object Pattern, and Test Doubles.
+ - Enabled deep linking navigation to specific app destinations via Android Deeplinks.
  - Adding sharing feature to relevant screens like the product detail to Hotels, Packages and flights
- - Supporting multibranding development to Vrbo, Hotels.com, Orbitz, MrJet, Wotif, Travelocity, Ebookers, Homeaway and sub-brands, LastMinute and CheapTickets.
+ - Led the development of the “sharing” feature across product detail screens for Hotels, Packages, and Flights.
+ - Contributed to multibrand support across Expedia Group brands including: Expedia, Vrbo, Hotels.com, Orbitz, MrJet, Wotif, Travelocity, Ebookers, Homeaway and sub-brands, LastMinute and CheapTickets.
 
-*Tech Stack*
-   - Android SDK
-   - Kotlin and Java support
-   - Coroutines and RX Java Support
-   - Room to database access.
-   - Compose, Fully compose and migration process
-   - Compose Testing framework
-   - GraphQL
+_Tech Stack_
+- Android SDK
+- Kotlin & Java
+- Jetpack Compose (full migration in progress)
+- Compose Testing Framework
+- Coroutines & RxJava
+- Room (local database)
+- GraphQL (API integration)
 
-*Play Store Links to Main Expedia Brands:*
+_Play Store Links to Main Expedia Brands:_
 
 | Brand           | Google Play Store Link                                                                 |
 |-----------------|--------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/e4c3c411-9eae-4652-b489-eb181be67688" width="5%"> Expedia         | [Expedia: Hotels, Flights, Cars](https://play.google.com/store/apps/details?id=com.expedia.bookings)  |
-| <img src="https://github.com/user-attachments/assets/ee488746-dee8-418a-a0db-ade7e632ce12" width="5%"> Hotels.com      | [Hotels.com: Travel Booking](https://play.google.com/store/apps/details?id=com.hcom.android)|
-| <img src="https://github.com/user-attachments/assets/96f3f4e0-ca79-4b18-b9cc-b48b2b016eb0" width="5%"> Vrbo            | [Vrbo Vacation Rentals](https://play.google.com/store/apps/details?id=com.vrbo.android) |
+| <img src="https://github.com/user-attachments/assets/e4c3c411-9eae-4652-b489-eb181be67688" width="5%" alt="Expedia Icon"> Expedia         | [Expedia: Hotels, Flights, Cars](https://play.google.com/store/apps/details?id=com.expedia.bookings)  |
+| <img src="https://github.com/user-attachments/assets/ee488746-dee8-418a-a0db-ade7e632ce12" width="5%" alt="Hotels.com Icon"> Hotels.com      | [Hotels.com: Travel Booking](https://play.google.com/store/apps/details?id=com.hcom.android)|
+| <img src="https://github.com/user-attachments/assets/96f3f4e0-ca79-4b18-b9cc-b48b2b016eb0" width="5%" alt="Vrbo Icon"> Vrbo            | [Vrbo Vacation Rentals](https://play.google.com/store/apps/details?id=com.vrbo.android) |
 
 
+### At Globant
 
-### Globant. 
+Globant is a global software company with clients across various industries and countries.
 
-Software house around the world with presence on many countries with many different clients. 
+At Globant, I worked with **Carnival Corporation**, a multinational cruise company that defines itself as a family of distinct cruise lines serving travelers from all walks of life. I contributed to the mobile experience designed to assist passengers before and during their cruise journey.
 
-I worked to Carnival Corporation which is a company as they define to theyselves: "comprises distinct cruise lines, which serve travelers from all walks of life". Main Job was all about the Mobile App they draw up to guide people through Cruise experience.
 
-#### Carnival Cruise Lines Pre Cruise and On Boarding App
-      **Role:** Android Developer & Mobile Lead
-      **Methodology:** Scrum
-  
-  Teaching people by internal course to start developing using Compose. 
-  Participating as Lead **to start migration to Android Compose from scratch.**
-  Development using Compose to new internal feature regarding Pre Cruise process.
-
-  Leading 2 teams, one about Pre Cruise process and one to supply Tech Debt to project.
-
-  Tech Stack
-    - Android SDK
-    - Kotlin
-    - Coroutines
-    - Room
-    - Compose
-    - Compose Testing Framework
-    - Rest API
-  
-  Play Store Links:
-    - [Carnival Hub App](https://play.google.com/store/apps/details?id=com.carnival.android)
-    - <img src="https://github.com/user-attachments/assets/776ec549-a453-4d9b-b3f6-1138d9529021">
-
- 
-  Screenshots.
-    - Agregar Screenshots de la app.
-    - 
 [Globant Site](https://www.globant.com/)
 
-#### At Ceiba Software
+#### Carnival Cruise Lines Pre Cruise and On Boarding Mobile App
+_Role:_ Android Developer & Mobile Lead
+_Methodology:_ Scrum
 
-- **Technical Coach**
+- Led the migration from legacy Android Views to Jetpack Compose from scratch.
+- Developed new features using Compose for the Pre-Cruise process.
+- Delivered technical training on Jetpack Compose to internal teams.
+- Reviewed pull requests to ensure compliance with architectural guidelines.
+- Participated in requirements refinement and technical discussions with stakeholders.
+- Provided technical leadership to two development squads: one focused on features, and another on tech debt reduction.
+  
+_Tech Stack_
+ - Android SDK
+ - Kotlin
+ - Coroutines
+ - Room
+ - Compose
+ - Compose Testing Framework
+ - Rest API
 
-    **Role:** Technical Coach
-    **Methodology:** Scrum
+_Play Store Link:_
+| Brand           | Google Play Store Link                                                                 |
+|-----------------|--------------------------------------------------------------------------------------------|
+| <img src="https://github.com/user-attachments/assets/776ec549-a453-4d9b-b3f6-1138d9529021" width="5%" alt="Carnival Icon"> Carnival Hub App         | [Carnival Hub App](https://play.google.com/store/apps/details?id=com.carnival.android)  |
 
-    Review admission tests from people who want to come to Ceiba
-    Give support to the selection process with technical interviews
-    Prepare new people with a training process before going to customers
-    Make trainings about different topics in mobility
-    Help other mobility projects from Ceiba's Customers
-    Supporting Customer Projects to refactor and architectural improvements
-    Leader and mentor in Android Bootcamp by Globant and Ceiba
+### Ceiba Software
 
-    Creating apps using Flutter and Android SDK
-    Training Customer developers to adopt and improve Android Technologies.
+#### _Technical Coach_
 
-    Sonar contribution to make it compatible to Jenkins version.
+_Role_: Technical Coach
+_Methodology_: Scrum, DevOps
 
-    Tech Stack
-      - Android SDK
-      - Flutter
-      - Jenkins
-      - Fastlane
-      - Sonar
+- Review admission tests from people who want to come to Ceiba
+- Give support to the selection process with technical interviews
+- Prepare new people with a training process before going to customers
+- Make trainings about different topics in mobility
+- Help other mobility projects from Ceiba's Customers
+- Supporting Customer Projects to refactor and architectural improvements
+- Leader and mentor in Android Bootcamp by Globant and Ceiba
+- Creating apps using Flutter and Android SDK
+- Training Customer developers to adopt and improve Android Technologies.
+- Sonar contribution to make it compatible to Jenkins version.
+
+Tech Stack
+  - Android SDK
+  - Flutter
+  - Jenkins
+  - Fastlane
+  - Sonar
       
 
-- Android Developer at Seguros Sura
-    Rewrite Seguros Sura’s App
-    Implementing chat using SDK to medical attention.
-    Creating internal library to handle background threads
+#### Android Developer at Seguros Sura
+- Rewrite Seguros Sura’s App
+- Implementing chat using SDK to medical attention.
+- Creating internal library to handle background threads
+- Developing new Seguros Sura app to track COVID-19 while pandemic.
     
-    Developing new Seguros Sura app to track COVID-19 while pandemic.
-    
-- Android and Web Developer at Rapicredit
-    Supporting Web Application
-    Supporting Mobile application
+#### Android and Web Developer at Rapicredit
+- Supporting Web Application
+- Supporting Mobile application
 
 [Ceiba Site](https://www.ceiba.com.co/en/home/)
 
-## This is me
+## About Me
 
-I like to play video games, mostly Soccer and Racing cars. I'm very passionate with my responsibilities, basically I like to make them very well done and with high quality, even if it inolves moped my house or define a good architecture to the project I'm working on. 
+Beyond my passion for technology, I enjoy playing video games, especially soccer and racing games. Whether I’m solving a technical challenge or doing a simple everyday task, I take pride in doing things well and with high quality.
 
-### Soft Skills:
+I'm a detail-oriented professional who enjoys building scalable solutions, mentoring others, and staying up to date with the latest trends in mobile development. I believe that growth comes from sharing knowledge and embracing every opportunity to improve.
 
+### Soft Skills
 - Assertive communication
-- Creative solutions
-- Leadership
-- Speaker
-- Couching
+- Creative problem-solving
+- Leadership and team guidance
+- Public speaking
+- Coaching and mentoring
 
 ### Languages
-- 🇨🇴 Spanish (Native Speaker)
-- 🇬🇧 English (B+ upper level Speaker)
+- 🇪🇸 Spanish (Native)
+- 🇬🇧 English (Upper-intermediate B2)
+
