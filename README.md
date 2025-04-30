@@ -5,9 +5,9 @@ I'm a passionate Android Developer with over 7 years of experience building robu
 
 I've worked on a variety of Android projects with different architectures, technologies, and methodologies. Let's talk about tech, innovation, and growth opportunities!
 
-|Email|Linkedin|Instagram|
-|----|----|----|
-|📧 estebanhiguitad@gmail.com|🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)|📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)|
+|Email|Linkedin|Instagram|CV
+|----|----|----|----|
+|📧 estebanhiguitad@gmail.com|🔗 [LinkedIn](https://www.linkedin.com/in/estebanhiguitad/)|📹 [Instagram (tech reels - currently inactive)](https://www.instagram.com/soyestebandev/)|🔗 [Google Drive Link](https://drive.google.com/file/d/130Bm2NHINva7vYS5aemPd0QRXKi9g9z5/view?usp=sharing)|
 
 ## 🛠️ Tech Skills
 
